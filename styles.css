@@ -260,7 +260,7 @@ footer{
 }
 
 /* Mobile */
-@media (max-width: 308px) {
+@media (max-width: 5in) {
 
     .container{
         padding: 0 20px;
